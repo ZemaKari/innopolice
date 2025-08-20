@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bb4f91a-ee43-41e1-92d4-92a2059e3a9c" name="Changes" comment="add homework 07" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="homework" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ZemaKari&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ZemaKari/innopolice.git&quot;,
+    &quot;accountId&quot;: &quot;5b265183-d03a-4b7d-b7fe-b8beb77ce470&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2zfofnHrEoIMmYDlA3sq3lUWeUv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.CountArrows.executor": "Run",
+    "Application.FindLetter.executor": "Run",
+    "Application.FindLetter1.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.RockPaper.executor": "Run",
+    "Application.findLetter.executor": "Run",
+    "Application.homework07.App.executor": "Run",
+    "Application.midterm_certification.App.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging master",
+    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/innopolice/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.homework07.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="certification.App" />
+      <module name="innopolice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="certification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountArrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_10.CountArrows" />
+      <module name="innopolice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_10.FindLetter" />
+      <module name="innopolice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework07.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework07.App" />
+      <module name="innopolice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="midterm_certification.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midterm_certification.App" />
+      <module name="innopolice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="midterm_certification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.midterm_certification.App" />
+        <item itemvalue="Application.homework07.App" />
+        <item itemvalue="Application.FindLetter" />
+        <item itemvalue="Application.CountArrows" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bb4f91a-ee43-41e1-92d4-92a2059e3a9c" name="Changes" comment="" />
+      <created>1752131594934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752131594934</updated>
+    </task>
+    <task id="LOCAL-00001" summary="домашнее заданик к уроку 8">
+      <option name="closed" value="true" />
+      <created>1753120248094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753120248094</updated>
+    </task>
+    <task id="LOCAL-00002" summary="домашнее заданик к уроку 8&#10;приложила RockPaper">
+      <option name="closed" value="true" />
+      <created>1753120649912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753120649912</updated>
+    </task>
+    <task id="LOCAL-00003" summary="домашнее заданик к уроку 8&#10;приложила RockPaper">
+      <option name="closed" value="true" />
+      <created>1753120699332</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753120699332</updated>
+    </task>
+    <task id="LOCAL-00004" summary="домашнее заданик к уроку 9">
+      <option name="closed" value="true" />
+      <created>1753208361355</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753208361355</updated>
+    </task>
+    <task id="LOCAL-00005" summary="домашнее заданик к уроку 10">
+      <option name="closed" value="true" />
+      <created>1753727190329</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753727190329</updated>
+    </task>
+    <task id="LOCAL-00006" summary="домашнее заданик к уроку 10">
+      <option name="closed" value="true" />
+      <created>1753727790745</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753727790745</updated>
+    </task>
+    <task id="LOCAL-00007" summary="homework certification">
+      <option name="closed" value="true" />
+      <created>1754336480669</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1754336480669</updated>
+    </task>
+    <task id="LOCAL-00008" summary="homework certification">
+      <option name="closed" value="true" />
+      <created>1754336579691</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1754336579691</updated>
+    </task>
+    <task id="LOCAL-00009" summary="homework certification">
+      <option name="closed" value="true" />
+      <created>1754338775523</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1754338775523</updated>
+    </task>
+    <task id="LOCAL-00010" summary="homework certification">
+      <option name="closed" value="true" />
+      <created>1754382337789</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1754382337789</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add homework 07">
+      <option name="closed" value="true" />
+      <created>1755686039702</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755686039702</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add homework 07">
+      <option name="closed" value="true" />
+      <created>1755696494886</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1755696494886</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="homework07" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="домашнее заданик к уроку 8" />
+    <MESSAGE value="домашнее заданик к уроку 8&#10;приложила RockPaper" />
+    <MESSAGE value="домашнее заданик к уроку 9" />
+    <MESSAGE value="домашнее заданик к уроку 10" />
+    <MESSAGE value="homework certification" />
+    <MESSAGE value="add homework 07" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework 07" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
